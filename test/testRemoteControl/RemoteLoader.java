@@ -30,7 +30,7 @@ import command_remote_controller.TVOnCommand;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class RemoteLoader {
 

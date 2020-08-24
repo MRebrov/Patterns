@@ -12,7 +12,7 @@ import factory_method_abstract_factory_pizza.PizzaStore;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class PizzaTestDrive {
     

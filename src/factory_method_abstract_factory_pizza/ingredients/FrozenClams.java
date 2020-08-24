@@ -8,7 +8,7 @@ package factory_method_abstract_factory_pizza.ingredients;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class FrozenClams implements Clam {
 

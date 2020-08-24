@@ -7,7 +7,7 @@ package observer_weather;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class StatisticsDisplay implements Observer, DisplayElement {
 

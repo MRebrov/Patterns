@@ -17,7 +17,7 @@ import facade_theater.Tuner;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class HomeTheaterTestDrive {
 

@@ -11,7 +11,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class Menu extends MenuComponent{
 

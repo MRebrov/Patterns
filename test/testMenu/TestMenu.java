@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class TestMenu {
 

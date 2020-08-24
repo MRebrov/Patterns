@@ -14,7 +14,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class SwingObserverExample {
 

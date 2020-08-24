@@ -7,7 +7,7 @@ package observer_weather;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public interface DisplayElement {
     public void display();

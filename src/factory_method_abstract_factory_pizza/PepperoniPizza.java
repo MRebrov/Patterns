@@ -7,7 +7,7 @@ package factory_method_abstract_factory_pizza;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class PepperoniPizza extends Pizza {
 

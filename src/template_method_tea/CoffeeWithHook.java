@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class CoffeeWithHook extends CaffeineBeverageWithHook {
 

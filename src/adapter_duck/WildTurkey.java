@@ -7,7 +7,7 @@ package adapter_duck;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class WildTurkey implements Turkey {
 

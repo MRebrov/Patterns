@@ -15,7 +15,7 @@ import factory_method_abstract_factory_pizza.ingredients.Veggies;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class CaliforniaPizzaIngredientFactory implements PizzaIngredientFactory {
 

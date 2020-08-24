@@ -10,7 +10,7 @@ import template_method_compare_ducks.Duck;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class DuckSortTestDrive {
 

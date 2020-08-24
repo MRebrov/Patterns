@@ -11,7 +11,7 @@ import template_method_tea.TeaWithHook;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class CaffeineBeverageTest {
     

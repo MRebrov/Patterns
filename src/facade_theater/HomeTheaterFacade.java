@@ -7,7 +7,7 @@ package facade_theater;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class HomeTheaterFacade {
     

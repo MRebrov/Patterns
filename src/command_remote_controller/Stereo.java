@@ -7,7 +7,7 @@ package command_remote_controller;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class Stereo {
     

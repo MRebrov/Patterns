@@ -7,7 +7,7 @@ package decorator_coffee;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public abstract class Beverage {
     public enum Size {BIG, SMALL, MEDIUM}

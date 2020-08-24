@@ -9,7 +9,7 @@ import template_method_jframe.MyFrame;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class TestJFrame {
     

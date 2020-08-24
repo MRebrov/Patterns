@@ -7,7 +7,7 @@ package decorator_coffee;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class Soy extends CondimentDecorator {
 

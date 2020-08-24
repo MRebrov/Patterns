@@ -7,7 +7,7 @@ package strategy_ducks;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public interface QuackBehavior {
     public void quack();

@@ -9,7 +9,7 @@ import java.util.Iterator;
 import java.util.Calendar;
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class AlternatinDinerMenuIterator implements Iterator {
 

@@ -7,7 +7,7 @@ package observer_weather;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public interface Observer {
     public void update(float temperature, float humidity, float pressure);

@@ -9,7 +9,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class MenuItem extends MenuComponent {
 

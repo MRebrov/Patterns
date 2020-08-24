@@ -7,7 +7,7 @@ package template_method_tea;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public abstract class CaffeineBeverageWithHook {
 

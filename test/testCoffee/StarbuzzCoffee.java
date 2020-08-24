@@ -15,7 +15,7 @@ import decorator_coffee.Whip;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class StarbuzzCoffee {
     

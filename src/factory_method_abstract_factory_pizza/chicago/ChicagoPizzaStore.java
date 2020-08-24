@@ -16,7 +16,7 @@ import factory_method_abstract_factory_pizza.ny.NYPizzaIngredientFactory;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class ChicagoPizzaStore extends PizzaStore {
 

@@ -10,7 +10,7 @@ import java.util.Observer;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
 

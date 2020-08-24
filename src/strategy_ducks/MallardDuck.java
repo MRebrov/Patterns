@@ -7,7 +7,7 @@ package strategy_ducks;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class MallardDuck extends Duck {
     public MallardDuck() {

@@ -8,7 +8,7 @@ package iterator_composite_menu;
 import java.util.Iterator;
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class NullIterator implements Iterator {
 

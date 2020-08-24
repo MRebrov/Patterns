@@ -9,7 +9,7 @@ import factory_method_abstract_factory_pizza.ingredients.Cheese;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class ReggianoCheese extends Cheese {
 

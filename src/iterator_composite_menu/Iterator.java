@@ -7,7 +7,7 @@ package iterator_composite_menu;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public interface Iterator {
 

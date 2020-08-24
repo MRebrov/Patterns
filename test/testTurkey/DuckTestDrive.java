@@ -14,7 +14,7 @@ import adapter_duck.WildTurkey;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class DuckTestDrive {
 

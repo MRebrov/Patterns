@@ -10,7 +10,7 @@ import java.util.Stack;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class CompositeIterator implements Iterator {
 

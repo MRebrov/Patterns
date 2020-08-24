@@ -13,7 +13,7 @@ import java.io.InputStream;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class InputTest {
     public static void main(String[] args) throws IOException {

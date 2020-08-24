@@ -10,7 +10,7 @@ import java.util.Observable;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class ForecastDisplay implements Observer, DisplayElement {
 

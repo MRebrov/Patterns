@@ -7,7 +7,7 @@ package decorator_coffee;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public abstract class CondimentDecorator extends Beverage {
 

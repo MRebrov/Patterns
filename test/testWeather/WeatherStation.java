@@ -13,7 +13,7 @@ import observer_weather.WeatherData;
 
 /**
  *
- * @author MRebrov
+ * @author A702906
  */
 public class WeatherStation {
 
